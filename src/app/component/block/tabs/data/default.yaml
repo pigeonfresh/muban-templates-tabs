@@ -1,0 +1,66 @@
+title: tabs
+
+items:
+  - title: First Item
+    content:
+      block: test-block
+      data:
+        title: Red
+        color: blue
+        height: 200
+  - title: Second Item
+    content:
+      block: test-block
+      data:
+        title: Blue
+        color: green
+        height: 600
+  - title: Third Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 375
+  - title: Fourth Item
+    content:
+      block: test-block
+      data:
+        title: Yellow
+        color: red
+        height: 375
+  - title: Fifth Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 425
+  - title: Sixth Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 180
+  - title: Seventh Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 300
+  - title: Eight Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 240
+  - title: Ninth Item
+    content:
+      block: test-block
+      data:
+        title: Green
+        color: red
+        height: 500

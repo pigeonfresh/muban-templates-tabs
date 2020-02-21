@@ -2,13 +2,11 @@
 <script src="./Tabs.ts"></script>
 
 <div class="tabs" data-component="tabs">
-  <header class="header">
-    <ul class="header-items">
-      {{#each items}}
-        <li class="header-item" data-index={{@index}}>{{title}}</li>
-      {{/each}}
-    </ul>
-  </header>
+  <ul class="header">
+    {{#each items}}
+      <li class="header-item" data-index={{@index}}>{{title}}</li>
+    {{/each}}
+  </ul>
   <div class="content" data-tabs-content>
     {{#each items}}
       {{#with content}}
